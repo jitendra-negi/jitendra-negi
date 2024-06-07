@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jitendra</h1>
 <h4 align="center"> Versatile and self-taught software engineer with over 9 years of expertise in Android development. Proficient in Kotlin and Java, I specialize in delivering innovative solutions for phones, tablets, and Android TV 📱📺. As a proven team leader and collaborator, I have hands-on experience with Flutter and React Native 🌟.
 
-🔧 Currently, I'm diving into Kotlin Multiplatform to further enhance my skills and explore new possibilities in cross-platform development 🚀.
-
 👨‍💻 As a Senior Android Developer, Mobile Architect, and Mobile App Consultant, I guide clients in the presale phase to define the application's feature list and ensure the best design patterns and version control practices.
  
  
