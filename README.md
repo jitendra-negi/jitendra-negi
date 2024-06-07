@@ -1,8 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
 <h1 align="center">Hi 👋, I'm Jitendra</h1>
-<h3 align="center">A passionate android app developer from India</h3>
+<h3 align="center">A passionate android app developer and mobile app architect from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-negi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-negi" /> </p>
 
