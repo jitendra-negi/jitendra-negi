@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-negi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-negi" /> </p>
 
 
-
  <p align="center">
 <img src="https://img.shields.io/badge/Age-33-blue" />
   <img src="https://img.shields.io/badge/Focus-Android,%20iOS%20Development -blue" />
@@ -17,13 +16,49 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendra-negi" alt="jitendra-negi" /></a> </p>
 
+
 - 🌱 I’m currently learning **kotlin Multiplatform and Flutter**
+  
+- 👉 Check out my **[Portfolio](https://drive.google.com/file/d/1ot9Zp1YTS7vhJ1GSoPTWkfoW5Cti8g-r/view?usp=sharing)**
 
-- 💬 Ask me about **Mobile app development**
+- 👉 See my Experience **[Resume](https://drive.google.com/file/d/1oDBnSZxtsqtf9BCc8qSBprC3OMxW9sDl/view)**
 
-- 📫 How to reach me **get2jeetnegi@gmail.com**
+- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/jitendra-negi/)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oDBnSZxtsqtf9BCc8qSBprC3OMxW9sDl/view](https://drive.google.com/file/d/1oDBnSZxtsqtf9BCc8qSBprC3OMxW9sDl/view)
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/jitendra-negi/)**
+
+- 💬 Ask me about **Android & iOS Developement, Java & Kotlin**
+
+### Projects and Dev Stuffs:
+
+<details open>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jitendra-negi&theme=light&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-negi&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8"/>
+</details>
+
+<details open>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendra-negi&theme=light&show_icons=true" />
+</details>
+
+
+<details open>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
+	    <li><b>Laptop: </b> Macbook Air M2</li>
+  	    <li><b>Browser: </b> Chrome & Safari</li>
+	    <li><b>Code Editor:</b> Android Studio, XCode, VSCode</li>
+ 	    <li><b>Other Tools:</b> Postman, GitHub Desktop, Slack</li>
+	</ul>
+</details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
