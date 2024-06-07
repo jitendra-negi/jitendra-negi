@@ -1,6 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Jitendra</h1>
-<h4 align="center">Versatile and Self-Taught Software Engineer with over 9 Years of Android Development Expertise | Proficient in Kotlin and Java | Innovative Solutions for Phone, Tablet, and Android TV | Proven Team Leader and Collaborator | Hands-On Experience with Flutter and React Native | Currently thriving as a Software Architect, leading high-impact projects and guiding development teams.</h4>
+<h4 align="center"> Versatile and self-taught software engineer with over 9 years of expertise in Android development. Proficient in Kotlin and Java, I specialize in delivering innovative solutions for phones, tablets, and Android TV 📱📺. As a proven team leader and collaborator, I have hands-on experience with Flutter and React Native 🌟.
+
+🔧 Currently, I'm diving into Kotlin Multiplatform to further enhance my skills and explore new possibilities in cross-platform development 🚀.
+
+👨‍💻 As a Senior Android Developer, Mobile Architect, and Mobile App Consultant, I guide clients in the presale phase to define the application's feature list and ensure the best design patterns and version control practices.
+ 
+ 
+ 
+ </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-negi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-negi" /> </p>
 
