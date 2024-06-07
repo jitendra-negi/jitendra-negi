@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-negi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-negi" /> </p>
 
 
- <p align="center">
+ <p align="left">
 <img src="https://img.shields.io/badge/Age-33-blue" />
   <img src="https://img.shields.io/badge/Focus-Android,%20iOS%20Development -blue" />
   <img src="https://img.shields.io/badge/Lives-Noida%20,%20UP -blue" />
