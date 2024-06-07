@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jitendra</h1>
-<h3 align="center">Versatile and Self-Taught Software Engineer with over 9 Years of Android Development Expertise | Proficient in Kotlin and Java | Innovative Solutions for Phone, Tablet, and Android TV | Proven Team Leader and Collaborator | Hands-On Experience with Flutter and React Native | Currently thriving as a Software Architect, leading high-impact projects and guiding development teams.</h3>
+<h5 align="center">Versatile and Self-Taught Software Engineer with over 9 Years of Android Development Expertise | Proficient in Kotlin and Java | Innovative Solutions for Phone, Tablet, and Android TV | Proven Team Leader and Collaborator | Hands-On Experience with Flutter and React Native | Currently thriving as a Software Architect, leading high-impact projects and guiding development teams.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-negi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-negi" /> </p>
 
