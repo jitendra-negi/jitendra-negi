@@ -9,7 +9,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-33-blue" />
   <img src="https://img.shields.io/badge/Focus-Android,%20iOS%20Development -blue" />
-  <img src="https://img.shields.io/badge/Lives-Noida%20,%20Maharashtra -blue" />
+  <img src="https://img.shields.io/badge/Lives-Noida%20,%20UP -blue" />
   <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-blue" />
 </p>
 <hr>
