@@ -4,6 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-negi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-negi" /> </p>
 
+
+
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-33-blue" />
+  <img src="https://img.shields.io/badge/Focus-Android,%20iOS%20Development -blue" />
+  <img src="https://img.shields.io/badge/Lives-Noida%20,%20Maharashtra -blue" />
+  <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-blue" />
+</p>
+<hr>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendra-negi" alt="jitendra-negi" /></a> </p>
 
 - 🌱 I’m currently learning **kotlin Multiplatform and Flutter**
